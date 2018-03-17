@@ -20,5 +20,13 @@
   "homepage": "https://github.com/MrRacoon/mr-tools#readme",
   "devDependencies": {
     "typescript": "^2.7.2"
+  },
+  "dependencies": {
+    "@types/node": "^9.4.7",
+    "@types/rc": "0.0.1",
+    "fs": "0.0.1-security",
+    "rc": "^1.2.6",
+    "redux": "^3.7.2",
+    "redux-thunk": "^2.2.0"
   }
 }
