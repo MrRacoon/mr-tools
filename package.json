@@ -3,8 +3,12 @@
   "version": "1.0.0",
   "description": "Tools for maintaining javascript mono-repos",
   "main": "index.js",
+  "bin": {
+    "mr-tools": "bin/mr-tools"
+  },
   "scripts": {
     "build": "tsc",
+    "clean": "rm -rf dist/",
     "lint": "tslint 'src/node_modules/**/*.ts'",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
