@@ -32,6 +32,8 @@
     "@types/node": "^9.4.7",
     "@types/rc": "0.0.1",
     "fs": "0.0.1-security",
+    "glob": "^7.1.2",
+    "ramda": "^0.25.0",
     "rc": "^1.2.6",
     "redux": "^3.7.2",
     "redux-thunk": "^2.2.0"
