@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Tools for maintaining javascript mono-repos",
   "main": "index.js",
+  "workspaces": [
+    "src/node_modules/*"
+  ],
   "bin": {
     "mr-tools": "bin/mr-tools"
   },
