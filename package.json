@@ -1,0 +1,23 @@
+{
+  "name": "mr-tools",
+  "version": "1.0.0",
+  "description": "Tools for maintaining javascript mono-repos",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrRacoon/mr-tools.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrRacoon/mr-tools/issues"
+  },
+  "homepage": "https://github.com/MrRacoon/mr-tools#readme",
+  "devDependencies": {
+    "typescript": "^2.7.2"
+  }
+}
