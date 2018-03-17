@@ -1,5 +1,5 @@
 {
-  "include": ["src/node_modules/**/*.ts"],       /* Specify the location where debugger should locate TypeScript files instead of source locations. */
+  "include": ["src/node_modules/**/*.ts"],    /* Specify the location where debugger should locate TypeScript files instead of source locations. */
   "compilerOptions": {
     /* Basic Options */
     "target": "es5",                          /* Specify ECMAScript target version: 'ES3' (default), 'ES5', 'ES2015', 'ES2016', 'ES2017','ES2018' or 'ESNEXT'. */
