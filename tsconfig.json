@@ -2,7 +2,7 @@
   "include": ["src/node_modules/**/*.ts"],
   "compilerOptions": {
     /* Basic Options */
-    "target": "es3",
+    "target": "es6",
     "module": "commonjs",
     "declaration": true,
     "sourceMap": true,
